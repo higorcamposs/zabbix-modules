@@ -1,0 +1,11 @@
+{
+    "manifest_version": 1.0,
+    "id": "addGraphsToMonitoringMenu",
+    "name": "Add Graphs to Monitoring menu",
+    "version": "1.0",
+    "type": "Menu improvement",
+    "namespace": "AddGraphsToMonitoringMenu",
+    "author": "Higor Campos",
+    "url": "https://github.com/higorcamposs",
+    "description": "Add Graphs to Monitoring menu. Date: 16/07/2024"
+}
