@@ -17,12 +17,12 @@ Requisitos
     Zabbix versão: Certifique-se de estar usando uma versão do Zabbix compatível com módulos PHP.
     Acesso ao servidor: Permissões para fazer upload e configuração de arquivos PHP no servidor Zabbix.
 
-### Como utilizar
+### Como utilizar:
 
 1. Estrutura dos Arquivos:
 
-    manifest.json: Contém as informações básicas sobre o módulo.
-    Module.php: Implementa a funcionalidade do módulo no Zabbix.
+> manifest.json: Contém as informações básicas sobre o módulo.
+> Module.php: Implementa a funcionalidade do módulo no Zabbix.
 
 3. Passos para Configurar o Módulo
 
