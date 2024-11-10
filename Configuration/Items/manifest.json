@@ -1,0 +1,11 @@
+{
+    "manifest_version": 1.0,
+    "id": "addItemsToConfigurationMenu",
+    "name": "Add Items to Configuration menu",
+    "version": "1.0",
+    "type": "Menu improvement",
+    "namespace": "AddItemsToConfigurationMenu",
+    "author": "Higor Campos",
+    "url": "https://github.com/higorcamposs",
+    "description": "Add items to configuration menu. Date: 16/07/2024"
+}
