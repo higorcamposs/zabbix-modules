@@ -22,6 +22,7 @@ Requisitos
 1. Estrutura dos Arquivos:
 
 > manifest.json: Contém as informações básicas sobre o módulo.
+
 > Module.php: Implementa a funcionalidade do módulo no Zabbix.
 
 3. Passos para Configurar o Módulo
