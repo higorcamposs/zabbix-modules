@@ -1,0 +1,11 @@
+{
+    "manifest_version": 1.0,
+    "id": "addTriggersToConfigurationMenu",
+    "name": "Add Triggers to Configuration menu",
+    "version": "1.0",
+    "type": "Menu improvement",
+    "namespace": "AddTriggersToConfigurationMenu",
+    "author": "Higor Campos",
+    "url": "https://github.com/higorcamposs",
+    "description": "Add triggers to configuration menu. Date: 16/07/2024"
+}
